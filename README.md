@@ -22,4 +22,4 @@ https://www.idokep.hu/webkamera/mupa
 #### Végeredmény
 A feladatmegoldás részleteit a letölthető notebook tartalmazza:
 
-https://github.com/balazs589/bme-training-project-dataproduct2/blob/main/osztalyozo_algoritmusok_osszehasonlitasa.ipynb
+https://github.com/balazs589/bme-training-project-dataproduct3/blob/main/webkamera_kep_kiertekeles.ipynb
